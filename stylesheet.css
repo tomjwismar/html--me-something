@@ -12,3 +12,12 @@ div{
 	margin:2px;
 	padding:2px;
 }
+
+a:hover{
+	background-color:yellow;
+	font-weight: bold;
+}
+
+a:visited {
+    color: red;
+}
